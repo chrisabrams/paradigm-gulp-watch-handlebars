@@ -1,4 +1,4 @@
-module.exports = (options) => {
+module.exports = function(options) {
 
   var gulp       = options.gulp,
       livereload = options.livereload
